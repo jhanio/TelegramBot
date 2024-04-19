@@ -5,6 +5,7 @@ Nombre del Proyecto: La Real Salchipapa Atencion Bot
 
 Descripción:
 
+
 Este bot de Telegram te permite realizar pedidos de tu Salchipapa favorita de forma rápida y sencilla. Elige tu estilo, agrega las salsas que desees y confirma tu orden para disfrutar de un delicioso manjar peruano.
 
 Características:
